@@ -93,7 +93,7 @@ ACL-Advanced-Study/
 
 ## 🌐 토폴로지
 
-![acl_Topology](./topology/acl_Topologypng)
+![acl_Topology](./topology/acl_Topology.png)
 
 ```
 
